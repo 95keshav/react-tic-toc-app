@@ -67,7 +67,3 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-Copy and paste this content into a file named `README.md` in the root directory of your GitHub repository. As usual, replace the placeholder URLs and any other relevant details with your actual project information. Additionally, if you have a demo URL or screenshots, you can include them in the appropriate sections.
