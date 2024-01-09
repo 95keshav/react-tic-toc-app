@@ -8,8 +8,8 @@ A simple Tic Tac Toe game built with React.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png =250x250)
-![Screenshot 2](screenshots/screenshot2.png =250x250)
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
 ## Getting Started
 
